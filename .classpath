@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/apache-tomcat-9.0.81-windows-x64/apache-tomcat-9.0.81/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/jfreechart-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/pager-taglib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/HCD/HCD/WEB-INF/lib/multipartrequest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/jakarta-servlet-api-4.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/vennela/Downloads/jakarta-servlet-api-4.jar/jakarta-servlet-api-4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
